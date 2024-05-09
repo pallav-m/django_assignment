@@ -24,7 +24,7 @@ Clone and build
 ```bash
 # Clone from git repository and move to cloned directory.
 $ cd <your workspace>
-$ git clone git@github.com:pallav-m/Django-assignment.git
+$ git clone git@github.com:pallav-m/django_assignment.git
 $ cd Django-assignment
 ```
 
